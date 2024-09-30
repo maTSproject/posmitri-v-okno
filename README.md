@@ -1,1 +1,1 @@
-https://github.com/maTSproject/posmotri-v-okno.git
+https://github.com/maTSproject/posmotri_v_okno.git
